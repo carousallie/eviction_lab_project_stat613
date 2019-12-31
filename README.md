@@ -17,12 +17,8 @@ Washington, D.C. is treated as a single county in our analyses on the county lev
 
 ### Data Sources
 
-Eviction Lab, Princeton University [https://evictionlab.org/](https://evictionlab.org/)
-
-R Datasets Package, [State](https://www.rdocumentation.org/packages/datasets/versions/3.6.2/topics/state)
-
-United States Census Bureau, [Urban and Rural Classification](https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html)
-
-United States Census Bureau, [TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html)
-
-United States Bureau of Labor Statistics, [Local Area Unemployment Statistics](https://www.bls.gov/lau/)
+- Eviction Lab, Princeton University [https://evictionlab.org/](https://evictionlab.org/)
+- R Datasets Package, [State](https://www.rdocumentation.org/packages/datasets/versions/3.6.2/topics/state)
+- United States Census Bureau, [Urban and Rural Classification](https://www.census.gov/programs-surveys/geography/guidance/geo-areas/urban-rural.html)
+- United States Census Bureau, [TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html)
+- United States Bureau of Labor Statistics, [Local Area Unemployment Statistics](https://www.bls.gov/lau/)
