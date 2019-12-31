@@ -1,0 +1,13 @@
+name: Eviction_Shiny
+title: Eviction_Shiny
+username:
+account: mpuerto
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1543922
+bundleId: 2630493
+url: https://mpuerto.shinyapps.io/Eviction_Shiny/
+when: 1575229724.51008
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: ACS_app.R|app.R|ar_app.R|monica_app.R|data_shiny/data.zip
