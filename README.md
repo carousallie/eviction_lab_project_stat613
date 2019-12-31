@@ -9,7 +9,7 @@ Please see `Eviction_Project_Research_Paper.pdf` for our full analysis.
 1. R Markdown 
 2. Presentation
 3. Research Paper
-4. R Shiny App
+4. [R Shiny App](https://mpuerto.shinyapps.io/Eviction_Shiny/)
 
 ### Notes
 
